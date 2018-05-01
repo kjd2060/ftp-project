@@ -1,7 +1,7 @@
 # ftp-project
-Java implementation of a FTP server and client using default socket libraries.
+Java implementation of a FTP server (FS) and client (FC) using default socket libraries.
 
-Project to write an FTP server (FS) and client (FC).  FS run on host, listens for requests from clients (FC).  Implements the following 
+FS run on host, listens for requests from clients (FC).  Implements the following 
 commands:
 
     1. rftp <FTP Server Address> <User> <Password>:  This command takes three parameters, i.e., the IP address of 
