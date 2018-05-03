@@ -1,0 +1,2 @@
+// TERRIBLE WAY TO STORE, NEVER EVER EVER ACTUALLY DO THIS. Proper storing outside of scope for this project.
+username: admin, password: asdf
