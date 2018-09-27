@@ -14,4 +14,4 @@ commands:
     
     3. rput <File Name>: The rput command takes the name of the file to upload to the FTP server, and uploads 
        the file if it exists in the default directory of FC, otherwise informs the user that the file does not exist
-There's a few issues noted in my previous commit, namely forgetting to close files in certain areas and some issues with the cd command.  Also some extra folders exist in the repository because when I uploaded I forgot to add those to the .gitignore and they were a part of the submission.  BADLY needs commenting.
+There's a few issues noted in my previous commit, namely forgetting to close files in certain areas and some issues with the cd command.  Also some extra folders exist in the repository because when I uploaded I forgot to add those to the .gitignore and they were a part of the submission.  BADLY needs commenting.  Note that these issues exist due to deadlines doubling up with this and senior projects, so this had to be done in a non-optimal way in some areas.
